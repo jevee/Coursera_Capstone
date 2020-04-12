@@ -1,3 +1,3 @@
 # Coursera_Capstone
-IBM data science course capsone\
-Lets see how this works
+This repository was created for the purpose of the IBM data science course capstone\
+
